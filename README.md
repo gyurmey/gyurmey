@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## “Rule #1: Life is supposed to be fun!” :blush:
+## “love the life you live.
+## live the life you love.” :blush:
 
 <!--
 **gyurmey/gyurmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
