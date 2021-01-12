@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### “love the life you live.
-###  live the life you love.” :blush:
+### “love the life you live. live the life you love.” :blush: 
 
 <!--
 **gyurmey/gyurmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
