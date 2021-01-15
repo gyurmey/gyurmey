@@ -2,7 +2,7 @@
 
 ### “love the life you live. live the life you love.” :blush:  -->
 
-["^_^" Tenzin "^_^"](https://tenzins-portfolio.netlify.app/)
+[Its "^_^" Tenzin "^_^"](https://tenzins-portfolio.netlify.app/)
 
 
 <img src="./naruto.gif" alt="naruto" width="900px" height="200px" >
