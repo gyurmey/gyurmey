@@ -2,11 +2,12 @@
 
 ### “love the life you live. live the life you love.” :blush:  -->
 
-[Tenzin "^_^"](https://tenzins-portfolio.netlify.app/)
+["^_^" Tenzin "^_^"](https://tenzins-portfolio.netlify.app/)
 
 
 <img src="./naruto.gif" alt="naruto" width="900px" height="200px" >
 
+<!--
 <br />
 
 ### hii: 
@@ -44,7 +45,7 @@
 
 <br />
 <br />
-
+-->
 
 <!--
 **gyurmey/gyurmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
