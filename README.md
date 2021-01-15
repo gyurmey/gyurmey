@@ -2,7 +2,7 @@
 
 ### “love the life you live. live the life you love.” :blush:  -->
 
-<div align="center" style="margin:20px; color:red;">
+<div align="center" margin="20px" color="red">
   <a href="https://tenzins-portfolio.netlify.app/">"^_^" Tenzin "^_^"</a>
 
 </div>
