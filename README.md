@@ -2,7 +2,7 @@
 
 ### “love the life you live. live the life you love.” :blush: 
 
-<img src="./mario.gif">
+<img src="./mario.gif" style="width:300px;height:200px;margin-left:300px">
 <!--
 **gyurmey/gyurmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
