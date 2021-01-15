@@ -3,6 +3,8 @@
 ### “love the life you live. live the life you love.” :blush:  -->
 [hiii](https://tenzins-portfolio.netlify.app/)
 
+[button url="https://tenzins-portfolio.netlify.app/"]
+
 <img src="./naruto.gif" alt="naruto" width="900px" height="200px" >
 <!--
 **gyurmey/gyurmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
