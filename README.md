@@ -2,8 +2,9 @@
 
 ### “love the life you live. live the life you love.” :blush:  -->
 
+<div align="center">
 [Tenzin "^_^"](https://tenzins-portfolio.netlify.app/)
-
+</div>
 
 <img src="./naruto.gif" alt="naruto" width="900px" height="200px" >
 
