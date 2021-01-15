@@ -1,8 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-### “love the life you live. live the life you love.” :blush: 
+### “love the life you live. live the life you love.” :blush:  -->
 
-<img src="./naruto.gif" >
+<img src="./naruto.gif" style="width:800px;height:200px;" >
 <!--
 **gyurmey/gyurmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
