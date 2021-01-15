@@ -2,7 +2,7 @@
 
 ### “love the life you live. live the life you love.” :blush:  -->
 
-<img src="./naruto.gif" style="width:800px;height:200px;" >
+<img src="./naruto.gif" alt="naruto" width="800px" height="200px" >
 <!--
 **gyurmey/gyurmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
