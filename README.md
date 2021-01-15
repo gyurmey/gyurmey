@@ -3,7 +3,8 @@
 ### “love the life you live. live the life you love.” :blush:  -->
 
 <div align="center">
-[Tenzin "^_^"](https://tenzins-portfolio.netlify.app/)
+  <a href="https://tenzins-portfolio.netlify.app/">Tenzin </a>
+
 </div>
 
 <img src="./naruto.gif" alt="naruto" width="900px" height="200px" >
