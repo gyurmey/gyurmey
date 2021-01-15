@@ -2,6 +2,7 @@
 
 ### “love the life you live. live the life you love.” :blush: 
 
+<img src="./mario.gif">
 <!--
 **gyurmey/gyurmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
