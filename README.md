@@ -6,7 +6,7 @@
 [button url="https://tenzins-portfolio.netlify.app/"]
 
 
-<button name="button" onclick="https://tenzins-portfolio.netlify.app/">Click me</button>
+<button name="button" type="button" onclick="https://tenzins-portfolio.netlify.app/">Click me</button>
 
 <img src="./naruto.gif" alt="naruto" width="900px" height="200px" >
 
