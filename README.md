@@ -4,7 +4,7 @@
 
 <div align="center">
  
-  <a href="https://tenzins-portfolio.netlify.app/">Tenzin "^_^"</a>
+  <a href="https://tenzins-portfolio.netlify.app/" target="_blank">Tenzin "^_^"</a>
 
 </div>
 <br/>
