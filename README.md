@@ -5,7 +5,11 @@
 
 [button url="https://tenzins-portfolio.netlify.app/"]
 
+
+<button name="button" onclick="https://tenzins-portfolio.netlify.app/">Click me</button>
+
 <img src="./naruto.gif" alt="naruto" width="900px" height="200px" >
+
 <!--
 **gyurmey/gyurmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
