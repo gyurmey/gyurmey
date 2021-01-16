@@ -4,7 +4,7 @@
 
 <div align="center">
  
-  #  🤔  <a target="_blank" rel="noopener noreferrer" href="https://tenzins-portfolio.netlify.app/"> **_Tenzin_**  "^_^"</a> 
+  ##  :blush:  <a target="_blank" rel="noopener noreferrer" href="https://tenzins-portfolio.netlify.app/"> **_Tenzin_**  "^_^"</a> 
 
 <!-- </div> -->
 <!-- <br/> -->
