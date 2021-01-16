@@ -6,9 +6,9 @@
  
   <a target="_blank" rel="noopener noreferrer" href="https://tenzins-portfolio.netlify.app/">Tenzin "^_^"</a>
 
-</div>
+<!-- </div> -->
 <!-- <br/> -->
-<div align="center">
+<!-- <div align="center"> -->
 
 <img src="./naruto1.gif" alt="naruto" >
 
