@@ -10,7 +10,9 @@
 <!-- <br/> -->
 <!-- <div align="center"> -->
 
-<img src="./ninja.gif" alt="naruto"   >
+<!-- <img src="./ninja.gif" alt="naruto"   > -->
+<img src="./js.gif" alt="naruto"  width="400px" height="200px" >
+
 
 </div>
 <!-- width="900px" height="200px"  -->
