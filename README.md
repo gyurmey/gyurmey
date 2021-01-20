@@ -11,7 +11,7 @@
 <!-- <div align="center"> -->
 
 <!-- <img src="./ninja.gif" alt="naruto"   > -->
-<img src="./naruto3.jpeg" alt="naruto" >
+<img src="./naruto3.gif" alt="naruto" >
 
 
 </div>
