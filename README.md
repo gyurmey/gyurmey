@@ -4,7 +4,7 @@
 
 <div align="center">
  
-  ###  :vulcan_salute:   <a target="_blank" rel="noopener noreferrer" href="https://tenzins-portfolio.netlify.app/">  **_tenzin.me_**   "^_^"</a> 
+  ###  :vulcan_salute:   <a target="_blank" rel="noopener noreferrer" href="https://tenzins-portfolio.netlify.app/">  **_tenzin.me_**   </a> "^_^"
 
 <!-- </div> -->
 <!-- <br/> -->
