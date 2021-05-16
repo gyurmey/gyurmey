@@ -20,7 +20,7 @@
 
 <!-- [![Sparkline](https://stars.medv.io/gyurmey/badges.svg)](https://stars.medv.io/gyurmey/badges) -->
 
-[![Gyurmey's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats)
+<!-- [![Gyurmey's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats) -->
 
 
 [![Gyurmey's github streak](https://github-readme-streak-stats.herokuapp.com/?user=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-streak-stats)
