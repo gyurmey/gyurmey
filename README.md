@@ -13,8 +13,17 @@
 <!-- <img src="./ninja.gif" alt="naruto"   > -->
 <img src="./rocket5.gif" alt="loading" width="100%" height="300px" >
 
+<!-- 
+[![Gyurmey's github stats](https://github-readme-stats.vercel.app/api?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats) -->
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
+<!-- [![Sparkline](https://stars.medv.io/gyurmey/badges.svg)](https://stars.medv.io/gyurmey/badges) -->
+
+[![Gyurmey's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats)
 
 
+[![Gyurmey's github streak](https://github-readme-streak-stats.herokuapp.com/?user=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-streak-stats)
 
 
 </div>
