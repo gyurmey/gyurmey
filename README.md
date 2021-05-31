@@ -16,7 +16,7 @@
 <!-- 
 [![Gyurmey's github stats](https://github-readme-stats.vercel.app/api?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats) -->
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+<!-- [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges) -->
 
 <!-- [![Sparkline](https://stars.medv.io/gyurmey/badges.svg)](https://stars.medv.io/gyurmey/badges) -->
 
