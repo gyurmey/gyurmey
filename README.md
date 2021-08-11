@@ -18,11 +18,11 @@
 <p align="center">
   <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gyurmey&show_icons=true&theme=tokyonight" /> -->
 </p>
-  <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gyurmey&theme=tokyonight" /> -->
-<!-- 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gyurmey&theme=tokyonight" />
+
 <h4 align="center">Testimonials</h4>
-<h1 align="center">❝</h1> -->
-<!-- 
+<h1 align="center">❝</h1>
+
 <table>
   <tr>
     <th>Message</th>
@@ -32,12 +32,20 @@
     <td>
     "He worked project oriented and independent according to specifications and learned the process workflow (research and conception, logic design, layout design, programming). Tenzin Gyurmey was always friendly and courteous to his colleagues. He fulfilled all tasks reliably and to our complete satisfaction. We thank him for the work at Rapidfacture and wish Tenzin Gyurmey a good start in his professional life. We would be happy to welcome Mr. Tenzin Gyurmey to our company again."</td>
     <td><a target="_blank" href="#">- Felix Furtmayr, CEO, Rapidfacture GmbH</a></td>
+
+    
   </tr>
-  <tr>
-   
-  </tr>-->
+
+<tr>
+    <td>
+    "Mr. Gyurmey showed exemplary initiative and identified himself fully with his tasks and our company, whereby he also convinced with his great enthusiasm. Even in situations with a high workload, it always proved to be particularly resilient. He carried out all tasks independently, carefully and well-planned. He acted calmly, deliberately, goal-oriented and precisely at all times. It was convincing both in terms of quality and quantity. Mr. Gyurmey was highly reliable. Mr. Gyurmey always carried out the tasks assigned to us to our satisfaction. He was valued by everyone because of his friendly and balanced nature. He was always helpful, courteous and, if necessary, also put personal interests aside. His behavior towards superiors, colleagues and customers was without exception impeccable.."</td>
+    <td><a target="_blank" href="#">- Karl Wesmann, Management, Conterra GmbH</a></td>
+
+    
+  </tr>
   
-<!-- </table>  -->
+  
+</table> 
 
 <!-- 
 [![Gyurmey's github stats](https://github-readme-stats.vercel.app/api?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats) -->
