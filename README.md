@@ -18,11 +18,11 @@
 <p align="center">
   <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gyurmey&show_icons=true&theme=tokyonight" /> -->
 </p>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gyurmey&theme=tokyonight" />
-
+ <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gyurmey&theme=tokyonight" /> -->
+<!--
 <h4 align="center">Testimonials</h4>
-<h1 align="center">❝</h1>
-
+<h1 align="center">❝</h1> -->
+<!--
 <table>
   <tr>
     <th>Message</th>
@@ -31,9 +31,9 @@
   <tr>
     <td>
     "He worked project oriented and independent according to specifications and learned the process workflow (research and conception, logic design, layout design, programming). Tenzin Gyurmey was always friendly and courteous to his colleagues. He fulfilled all tasks reliably and to our complete satisfaction. We thank him for the work at Rapidfacture and wish Tenzin Gyurmey a good start in his professional life. We would be happy to welcome Mr. Tenzin Gyurmey to our company again."</td>
-    <td><a target="_blank" href="#">- Felix Furtmayr, CEO, Rapidfacture GmbH</a></td>
+    <td><a target="_blank" href="#">- Felix Furtmayr, CEO, Rapidfacture GmbH</a></td> -->
 
-    
+    <!--
   </tr>
 
 <tr>
@@ -45,7 +45,7 @@
   </tr>
   
   
-</table> 
+</table>  -->
 
 <!-- 
 [![Gyurmey's github stats](https://github-readme-stats.vercel.app/api?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats) -->
