@@ -11,7 +11,7 @@
 <!-- <div align="center"> -->
 
 <!-- <img src="./ninja.gif" alt="naruto"   > -->
-<img src="./naruto3.gif" alt="loading" width="100%" height="100px" >
+<img src="./naruto3.gif" alt="loading" width="100%" height="300px" >
 
 ---
 
@@ -34,7 +34,7 @@
     <td><a target="_blank" href="#">- Felix Furtmayr, CEO, Rapidfacture GmbH</a></td> -->
 
 
-  </tr> -->
+  </tr> 
     <!--
 <tr>
     <td>
@@ -45,8 +45,7 @@
   </tr>
   
   
-</table>  -->
-
+</table>  
 <!-- 
 [![Gyurmey's github stats](https://github-readme-stats.vercel.app/api?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats) -->
 
