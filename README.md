@@ -11,7 +11,7 @@
 <!-- <div align="center"> -->
 
 <!-- <img src="./ninja.gif" alt="naruto"   > -->
-<img src="./naruto3.gif" alt="loading" width="20%" height="100px" >
+<img src="./naruto2.gif" alt="loading" width="70%" height="200px" >
 
 ---
 
