@@ -39,7 +39,10 @@
     <td><a target="_blank" href="#">- digitaleantwort, Germany</a>
     </td> 
   </tr> 
-  
+
+  <br/>
+  <br/>
+
 <img align="left"  width="16px" src="./israel.png" />
   <tr>
     <td>
@@ -52,7 +55,7 @@
   
 </table>  
 
-- 📫 How to reach me: ... <a target="_blank" rel="noopener noreferrer" href="https://gyurmey.dev/">  **_tenzin.me_**   </a> "^_^"
+- 📫 How to reach me: ... <a target="_blank" rel="noopener noreferrer" href="https://gyurmey.dev/">  **_tenzin.me_**   </a> 
 
 <!-- 
 [![Gyurmey's github stats](https://github-readme-stats.vercel.app/api?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats) -->
