@@ -36,11 +36,11 @@
   <tr>
     <td>
     "Amazing experience working with you! You were really helpful."</td>
+<img align="left"  width="16px" src="./israel.png" />
     <td><a target="_blank" href="#">- Batprimo, Israel
     
     
     
-<img align="left"  width="16px" src="./israel.png" />
     </a>
     </td> 
 
