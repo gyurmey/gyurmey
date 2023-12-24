@@ -38,7 +38,7 @@
     "Amazing experience working with you! You were really helpful."</td>
     <td><a target="_blank" href="#">- Batprimo, Israel</a></td> 
     
-<img align="left"  width="16px" src="israel.png" />
+<img align="left"  width="16px" src="./israel.png" />
 
   </tr> 
   
