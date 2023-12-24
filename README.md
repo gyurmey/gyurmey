@@ -30,11 +30,17 @@
     <td>
     "He worked project oriented and independent according to specifications and learned the process workflow (research and conception, logic design, layout design, programming). Tenzin Gyurmey was always friendly and courteous to his colleagues. He fulfilled all tasks reliably and to our complete satisfaction. We thank him for the work at Rapidfacture and wish Tenzin Gyurmey a good start in his professional life. We would be happy to welcome Mr. Tenzin Gyurmey to our company again."</td>
     <td><a target="_blank" href="#">- Felix Furtmayr, CEO, Rapidfacture GmbH</a></td> -->
-
   </tr> 
 
+<img align="left"  width="16px" src="./german.jpg" />
+  <tr>
+    <td>
+    "Working with Tenzin is really pleasant. He is very communicative, understands the given tasks quickly and I am very happy to have Tenzin on the team."</td>
+    <td><a target="_blank" href="#">- digitaleantwort, Germany</a>
+    </td> 
+  </tr> 
+  
 <img align="left"  width="16px" src="./israel.png" />
-
   <tr>
     <td>
     "Amazing experience working with you! You were really helpful."</td>
@@ -44,17 +50,10 @@
 <br/>
 <br/>
   
-<img align="left"  width="16px" src="./german.jpg" />
-
-  <tr>
-    <td>
-    "Working with Tenzin is really pleasant. He is very communicative, understands the given tasks quickly and I am very happy to have Tenzin on the team."</td>
-    <td><a target="_blank" href="#">- digitaleantwort, Germany</a>
-    </td> 
-  </tr> 
-  
-  
 </table>  
+
+- 📫 How to reach me: ... <a target="_blank" rel="noopener noreferrer" href="https://gyurmey.dev/">  **_tenzin.me_**   </a> "^_^"
+
 <!-- 
 [![Gyurmey's github stats](https://github-readme-stats.vercel.app/api?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats) -->
 
