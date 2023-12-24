@@ -42,16 +42,13 @@
   </tr> 
 <br/>
 <br/>
-<br/>
-
-
-  
   
   <tr>
     <td>
+<img align="left"  width="16px" src="./german.jpg" />
+
     "Working with Tenzin is really pleasant. He is very communicative, understands the given tasks quickly and I am very happy to have Tenzin on the team."</td>
     <td><a target="_blank" href="#">- digitaleantwort, Germany</a>
-<img align="left"  width="16px" src="./german.jpg" />
     </td> 
   </tr> 
   
