@@ -30,7 +30,7 @@
     <td>
     "He worked project oriented and independent according to specifications and learned the process workflow (research and conception, logic design, layout design, programming). Tenzin Gyurmey was always friendly and courteous to his colleagues. He fulfilled all tasks reliably and to our complete satisfaction. We thank him for the work at Rapidfacture and wish Tenzin Gyurmey a good start in his professional life. We would be happy to welcome Mr. Tenzin Gyurmey to our company again."</td>
     <td><a target="_blank" href="#">- Felix Furtmayr, CEO, Rapidfacture GmbH</a></td> -->
-  </tr> 
+  <!-- </tr> 
 
 <img align="left"  width="16px" src="./german.jpg" />
   <tr>
@@ -53,7 +53,7 @@
 <br/>
 <br/>
   
-</table>  
+</table>   -->
 
 - 📫 How to reach me: ... <a target="_blank" rel="noopener noreferrer" href="https://gyurmey.dev/">  **Tenzin**   </a>
 
