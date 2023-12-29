@@ -20,8 +20,8 @@
 <!-- <h4 align="center">Testimonials</h4> -->
 <h1 align="center">❝</h1> 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyurmey&label=Profile%20views&color=0e75b6&style=flat" alt="gyurmey" /> </p>
+
 <!--
 <table>
   <tr>
