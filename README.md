@@ -57,7 +57,9 @@
   
 </table>   -->
 
+<!-- 
 - 📫 How to reach me: ... <a target="_blank" rel="noopener noreferrer" href="https://gyurmey.dev/">  **Tenzin**   </a>
+ -->
 
 <!-- 
 [![Gyurmey's github stats](https://github-readme-stats.vercel.app/api?username=gyurmey&theme=blue-green)](https://github.com/gyurmey/github-readme-stats) -->
